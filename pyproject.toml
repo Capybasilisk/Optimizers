@@ -10,7 +10,7 @@ numpy = "^1.19.0"
 pandas = "^1.0.5"
 sklearn = "^0.0"
 clevercsv = "^0.6.3"
-lightgbm = "^2.3.1"
+lightgbm = "^4.6.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
